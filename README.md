@@ -31,11 +31,3 @@ I build tools for **Even Realities smart glasses**, native apps for **iPhone, iP
   <a href="https://www.arabodazero.it"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/arabodazero-dark.svg"><img src="assets/arabodazero-light.svg" width="49%" alt="Arabo da Zero: free, open Arabic course for Italian speakers, from the alphabet to C1."></picture></a>
   <a href="https://github.com/gabrielevierti/nodo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nodo-dark.svg"><img src="assets/nodo-light.svg" width="49%" alt="Nodo: open-source control app for smart home and DIY hardware on iPad, over Bluetooth or Wi-Fi."></picture></a>
 </p>
-
-## Activity
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="generated/activity-dark.svg"><img src="generated/activity-light.svg" width="100%" alt="Repositories, stars, forks, followers and most used languages"></picture>
-
-<p align="center">
-  <sub>Milan, Italy · <a href="https://github.com/gabrielevierti?tab=repositories">All repositories</a> · <a href="https://www.arabodazero.it">arabodazero.it</a></sub>
-</p>
