@@ -17,7 +17,7 @@ I build tools for **Even Realities smart glasses**, native apps for **iPhone, iP
 
 <p>
   <a href="https://apps.apple.com/app/id6832491263"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/quota-dark.svg"><img src="assets/quota-light.svg" width="49%" alt="Quota: flight radar with live air traffic, weather and airports. Free, no ads, no account."></picture></a>
-  <a href="https://gabrielevierti.github.io/linea-support/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/lineami-dark.svg"><img src="assets/lineami-light.svg" width="49%" alt="LineaMI: metro, tram, bus and trains in Milan with step-by-step guidance, for iPhone and Apple Watch."></picture></a>
+  <a href="https://apps.apple.com/it/app/lineami/id6835143643?l=en-GB"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/lineami-dark.svg"><img src="assets/lineami-light.svg" width="49%" alt="LineaMI: metro, tram, bus and trains in Milan with step-by-step guidance, for iPhone and Apple Watch."></picture></a>
 </p>
 
 ## Open source
@@ -34,14 +34,7 @@ I build tools for **Even Realities smart glasses**, native apps for **iPhone, iP
 
 ## Activity
 
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="generated/stats-dark.svg"><img src="generated/stats-light.svg" height="180" alt="GitHub stats"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="generated/top-langs-dark.svg"><img src="generated/top-langs-light.svg" height="180" alt="Most used languages"></picture>
-</p>
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="generated/snake-dark.svg"><img src="generated/snake-light.svg" width="100%" alt="Contribution graph animation"></picture>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="generated/activity-dark.svg"><img src="generated/activity-light.svg" width="100%" alt="Repositories, stars, forks, followers and most used languages"></picture>
 
 <p align="center">
   <sub>Milan, Italy · <a href="https://github.com/gabrielevierti?tab=repositories">All repositories</a> · <a href="https://www.arabodazero.it">arabodazero.it</a></sub>
