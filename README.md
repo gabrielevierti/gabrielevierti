@@ -4,7 +4,7 @@
 
 <br>
 
-I build tools for **Even Realities smart glasses**, native apps for **iPhone, iPad and Apple Watch**, and free learning resources. Most of what I make is open source, and everything is designed to run without accounts, ads or paid backends.
+I build **Molten Engine**, a game engine for Apple silicon, tools for **Even Realities smart glasses**, native apps for **iPhone, iPad and Apple Watch**, and free learning resources. Most of what I make is open source, and everything is designed to run without accounts, ads or paid backends.
 
 ## Smart glasses
 
@@ -21,6 +21,10 @@ I build tools for **Even Realities smart glasses**, native apps for **iPhone, iP
 </p>
 
 ## Graphics and games
+
+<p>
+  <a href="https://github.com/gabrielevierti/moltenengine"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/moltenengine-dark.svg"><img src="assets/moltenengine-light.svg" width="98.5%" alt="Molten Engine: a native game engine for Apple silicon, built on Metal. Games in C++ or visual scripts, made in a full editor."></picture></a>
+</p>
 
 <p>
   <a href="https://github.com/gabrielevierti/learnmetal"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/learnmetal-dark.svg"><img src="assets/learnmetal-light.svg" width="49%" alt="learnmetal: free, step-by-step tutorials for 3D graphics programming with Apple's Metal API."></picture></a>
