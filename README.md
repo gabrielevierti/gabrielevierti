@@ -20,17 +20,8 @@ I build **Molten Engine**, a game engine for Apple silicon, tools for **Even Rea
 ## Smart glasses
 
 <p>
-  <a href="https://github.com/gabrielevierti/glyph"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-dark.svg"><img src="assets/glyph-light.svg" width="98.5%" alt="Glyph: graphics and UI framework for Even Realities G2. Draw, lay out and ship interfaces to a 576 × 288 grayscale display."></picture></a>
-</p>
-
-<p>
+  <a href="https://github.com/gabrielevierti/glyph"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/glyph-dark.svg"><img src="assets/glyph-light.svg" width="49%" alt="Glyph: graphics and UI framework for the Even Realities G2 display, with 123 components, charts and 279 icons."></picture></a>
   <a href="https://github.com/gabrielevierti/openg1-sdk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/openg1-sdk-dark.svg"><img src="assets/openg1-sdk-light.svg" width="49%" alt="OpenG1 SDK: open SDK and simulator for Even Realities G1 smart glasses, with one API on desktop, Android and iPhone."></picture></a>
-  <a href="https://github.com/gabrielevierti/er-studio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/er-studio-dark.svg"><img src="assets/er-studio-light.svg" width="49%" alt="ER Studio: a VS Code extension for Even Realities G2 apps, with the simulator, a doctor and the SDK reference beside your code."></picture></a>
-</p>
-
-<p>
-  <a href="https://github.com/gabrielevierti/tideview"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tideview-dark.svg"><img src="assets/tideview-light.svg" width="49%" alt="TideView: speed, course, wind, sea state and weather on the lens of Even Realities G2, from the phone's GPS."></picture></a>
-  <a href="https://github.com/gabrielevierti/g2modelviewer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/g2modelviewer-dark.svg"><img src="assets/g2modelviewer-light.svg" width="49%" alt="G2ModelViewer: a software 3D renderer that shows OBJ and GLB models on the G2's 16-level display."></picture></a>
 </p>
 
 ## On the App Store
@@ -47,24 +38,23 @@ I build **Molten Engine**, a game engine for Apple silicon, tools for **Even Rea
   <a href="https://www.arabodazero.it"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/arabodazero-dark.svg"><img src="assets/arabodazero-light.svg" width="49%" alt="Arabo da Zero: free, open Arabic course for Italian speakers, from the alphabet to C1."></picture></a>
 </p>
 
-## More projects
+## Research and tools
 
 <p>
   <a href="https://github.com/gabrielevierti/metrica"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/metrica-dark.svg"><img src="assets/metrica-light.svg" width="49%" alt="Metrica: local-first, evidence-oriented video-to-3D reconstruction and scene analysis."></picture></a>
   <a href="https://github.com/gabrielevierti/nodo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nodo-dark.svg"><img src="assets/nodo-light.svg" width="49%" alt="Nodo: open-source control app for smart home and DIY hardware on iPad, over Bluetooth or Wi-Fi."></picture></a>
 </p>
 
-<p>
-  <a href="https://github.com/gabrielevierti/baked-mind"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/baked-mind-dark.svg"><img src="assets/baked-mind-light.svg" width="49%" alt="BakedMind: compile knowledge once into source-linked facts and answer later with no neural network."></picture></a>
-  <a href="https://github.com/gabrielevierti/cetus-x-orb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cetus-x-orb-dark.svg"><img src="assets/cetus-x-orb-light.svg" width="49%" alt="Cetus X ORB: a printed 168 mm ball cage for the BetaFPV Cetus X, generated and checked by a Python model."></picture></a>
-</p>
+## More repositories
 
-<p>
-  <a href="https://github.com/gabrielevierti/tratta"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tratta-dark.svg"><img src="assets/tratta-light.svg" width="49%" alt="Tratta: a journey planner with a scrubbable timeline, a live map and an auditable cost ledger."></picture></a>
-  <a href="https://github.com/gabrielevierti/umai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/umai-dark.svg"><img src="assets/umai-light.svg" width="49%" alt="Umai: a personal chef that runs on your machine, with recipes, scaling, a pantry and a shopping list."></picture></a>
-</p>
-
-<p>
-  <a href="https://github.com/gabrielevierti/templogin"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/templogin-dark.svg"><img src="assets/templogin-light.svg" width="49%" alt="tempLogin: temporary sign-in for shared TVs. Scan a QR, pick a duration, and it signs itself out."></picture></a>
-  <a href="https://github.com/gabrielevierti/vhash"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/vhash-dark.svg"><img src="assets/vhash-light.svg" width="49%" alt="VHash: MD5, SHA-1 and SHA-256 implemented from scratch, with the README as a step-by-step tutorial."></picture></a>
-</p>
+| Project | What it is | Language |
+| --- | --- | --- |
+| [**ER Studio**](https://github.com/gabrielevierti/er-studio) | VS Code extension for Even Realities G2 apps: simulator, doctor and SDK reference beside your code | JavaScript |
+| [**TideView**](https://github.com/gabrielevierti/tideview) | Marine HUD for Even Realities G2: speed, course, wind, sea state and weather on the lens | TypeScript |
+| [**G2ModelViewer**](https://github.com/gabrielevierti/g2modelviewer) | Software 3D renderer that shows OBJ and GLB models on the G2's 16-level display | TypeScript |
+| [**Cetus X ORB**](https://github.com/gabrielevierti/cetus-x-orb) | Printed 168 mm ball cage for the BetaFPV Cetus X, generated and checked by a Python model | Python |
+| [**BakedMind**](https://github.com/gabrielevierti/baked-mind) | Compile knowledge once into source-linked facts, answer later with no neural network | Python |
+| [**Tratta**](https://github.com/gabrielevierti/tratta) | Offline journey planner with a scrubbable timeline, a live map and an auditable cost ledger | JavaScript |
+| [**Umai**](https://github.com/gabrielevierti/umai) | Personal chef that runs on your machine: recipes, scaling, pantry and shopping list | JavaScript |
+| [**tempLogin**](https://github.com/gabrielevierti/templogin) | Temporary sign-in for shared TVs: scan a QR, pick a duration, it signs itself out | TypeScript |
+| [**VHash**](https://github.com/gabrielevierti/vhash) | MD5, SHA-1 and SHA-256 from scratch, with the README as a step-by-step tutorial | Python |
