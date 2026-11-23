@@ -44,17 +44,3 @@ I build **Molten Engine**, a game engine for Apple silicon, tools for **Even Rea
   <a href="https://github.com/gabrielevierti/metrica"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/metrica-dark.svg"><img src="assets/metrica-light.svg" width="49%" alt="Metrica: local-first, evidence-oriented video-to-3D reconstruction and scene analysis."></picture></a>
   <a href="https://github.com/gabrielevierti/nodo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nodo-dark.svg"><img src="assets/nodo-light.svg" width="49%" alt="Nodo: open-source control app for smart home and DIY hardware on iPad, over Bluetooth or Wi-Fi."></picture></a>
 </p>
-
-## More repositories
-
-| Project | What it is | Language |
-| --- | --- | --- |
-| [**ER Studio**](https://github.com/gabrielevierti/er-studio) | VS Code extension for Even Realities G2 apps: simulator, doctor and SDK reference beside your code | JavaScript |
-| [**TideView**](https://github.com/gabrielevierti/tideview) | Marine HUD for Even Realities G2: speed, course, wind, sea state and weather on the lens | TypeScript |
-| [**G2ModelViewer**](https://github.com/gabrielevierti/g2modelviewer) | Software 3D renderer that shows OBJ and GLB models on the G2's 16-level display | TypeScript |
-| [**Cetus X ORB**](https://github.com/gabrielevierti/cetus-x-orb) | Printed 168 mm ball cage for the BetaFPV Cetus X, generated and checked by a Python model | Python |
-| [**BakedMind**](https://github.com/gabrielevierti/baked-mind) | Compile knowledge once into source-linked facts, answer later with no neural network | Python |
-| [**Tratta**](https://github.com/gabrielevierti/tratta) | Offline journey planner with a scrubbable timeline, a live map and an auditable cost ledger | JavaScript |
-| [**Umai**](https://github.com/gabrielevierti/umai) | Personal chef that runs on your machine: recipes, scaling, pantry and shopping list | JavaScript |
-| [**tempLogin**](https://github.com/gabrielevierti/templogin) | Temporary sign-in for shared TVs: scan a QR, pick a duration, it signs itself out | TypeScript |
-| [**VHash**](https://github.com/gabrielevierti/vhash) | MD5, SHA-1 and SHA-256 from scratch, with the README as a step-by-step tutorial | Python |
